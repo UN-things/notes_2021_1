@@ -12,4 +12,6 @@
 
 | Fecha | Temas vistos |
 | :---: | :---: |
-| [2021-02-22](class_notes/2021_02_22.md) | |
+| 2021-02-22 | Presentación del curso |
+| [2021-02-24](class_notes/2021_02_24.pdf) | Realización de un taller grupal |
+| [2021-03-01](class_notes/2021_03_01.md) | Discusión taller |

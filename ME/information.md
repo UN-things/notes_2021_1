@@ -12,3 +12,8 @@
 | :---: | :---: |
 | 2021-02-22| [Presentación del curso](https://github.com/gtzambranop/UN_2021_1/tree/develop/ME/documents/course_presentation.pdf) |
 | 2021-02-24 | Presentación de videos individuales, asignación de monitores |
+
+## Tareas
+
+- [Obligatorias](mandatory_tasks/information.md)
+- Opcionales.
