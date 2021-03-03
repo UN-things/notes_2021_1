@@ -22,3 +22,9 @@
 | Fecha | Temas vistos |
 | :---: | :---: |
 | [2021-02-23](class_notes/2021_02_23.md) | Presentación del curso, ¿Qué es un sistema?, ¿Qué es el pensamiento sistémico? |
+| [2021-02-25](class_notes/2021_02_25.md) | ¿Cómo leer un artículo? |
+
+## Actividades
+
+| Fecha asignación | Descripción |
+| :---: | :---: |
