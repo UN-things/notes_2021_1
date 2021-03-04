@@ -26,5 +26,12 @@
 
 | Fecha | Temas vistos |
 | :---: | :---: |
-| 2021-02-23 | Presentación del curso |
-| 2021-02-25 | [Lectura](summaries/00.md) |
+| [2021-02-23](class_notes/2021_02_23.md) | Presentación del curso |
+| [2021-02-25](class_notes/2021_02_25.md) | [Lectura](summaries/00.md), arquitectura de software, Sistemas de software, ejemplos |
+| [2021-03-02](class_notes/2021_03_02.md) | Libros útiles, Arquitectura de app y sistema, arquitectura de elementos |
+
+## Tareas
+
+| Fecha Asignación | Descripción | Estado |
+| :---: | :---: | :---: |
+| [2021-03-02](class_notes/2021_03_02.md) | Ejemplo de estructuras y propiedades | [Realizado](task/00.md) |

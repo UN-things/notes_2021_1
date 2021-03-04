@@ -17,3 +17,9 @@
 
 - [Obligatorias](mandatory_tasks/information.md)
 - Opcionales.
+
+## Puntos
+
+| Fecha | Descripción |
+| :---: | :---: |
+| 2021-03-03 | Lectura 4 |
