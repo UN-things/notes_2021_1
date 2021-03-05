@@ -11,11 +11,11 @@
 
 | Item | Porcentaje |
 | :---: | :---: |
-| Evaluación unidad 1 | 20\% |
-| Evaluación unidad 2 | 20\% |
-| Exposición grupal de <br> Teorías de pensamiento sistémico | 20\% |
-| Trabajo final <br> Grupal: Simulación | 30\% |
-| Trabajo escrito | 10\% |
+| Evaluación unidad 1 | 20% |
+| Evaluación unidad 2 | 20% |
+| Exposición grupal de <br> Teorías de pensamiento sistémico | 20% |
+| Trabajo final <br> Grupal: Simulación | 30% |
+| Trabajo escrito | 10% |
 
 ## Apuntes
 
@@ -24,10 +24,28 @@
 | [2021-02-23](class_notes/2021_02_23.md) | Presentación del curso, ¿Qué es un sistema?, ¿Qué es el pensamiento sistémico? |
 | [2021-02-25](class_notes/2021_02_25.md) | ¿Cómo leer un artículo? |
 | [2021-03-02](class_notes/2021_03_02.md) | Estructura de un artículo, introducción y ensayo |
+| [2021-03-04](class_notes/2021_03_04.md) | Definición de pensamiento sistémico, origen y principios |
 
+## Grupo 6
+
+- **Integrantes:**
+  - Alvaro Andres Garcia Perdomo
+    - alagarciape@unal.edu.co
+  - Andres Felipe Velandia Erazo
+    - anfvelandiaer@unal.edu.co
+  - Elsy Tatiana Roberto Torres
+    - etrobertot@unal.edu.co
+  - Ivan Dario Solano Velasquez
+    - idsolanov@unal.edu.co
+  - Juan Sebastian Reina Zamora
+    - jreinaz@unal.edu.co
+  - Guiselle Tatiana Zambrano Penagos
+    - gtzambranop@unal.edu.co
 ## Actividades
 
-| Fecha asignación | Descripción |
-| :---: | :---: |
-| [2021-02-23](activities/00.png) | Definición de un sistema e identificación de sus compoentes |
-| [2021-02-25](activities/01.png) | Definición del proyecto y artículos aceptables que lo respalden |
+| Fecha Asignación | Fecha Entrega | Estado |
+| :---: | :---: | :---: |
+| 2021-02-23 | 2021-02-23 | [Realizado](activities/00/statement.md) |
+| 2021-02-25 | 2021-02-26 | [Realizado](activities/01/statement.md) |
+| 2021-03-02 | 2021-02-06 | [Sin Realizar](activities/02/statement.md) |
+| 2021-03-04 | 2021-02-09 | [Sin Realizar](activities/03/statement.md) |

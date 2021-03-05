@@ -29,7 +29,12 @@
 | [2021-02-23](class_notes/2021_02_23.md) | Presentación del curso |
 | [2021-02-25](class_notes/2021_02_25.md) | [Lectura](summaries/00.md), arquitectura de software, Sistemas de software, ejemplos |
 | [2021-03-02](class_notes/2021_03_02.md) | Libros útiles, Arquitectura de app y sistema, arquitectura de elementos |
+| [2021-03-04](class_notes/2021_03_04.md) | Corrección tarea (propiedades y estructuras), Arquitectura sencilla C-S para identificar elementos básicos |
 
+### Importante
+- Rojo: DB
+- Azul: Componentes con los que no interactúa el usuario
+- Verda: Componentes con los que el usuario interactúa
 ## Tareas
 
 | Fecha Asignación | Descripción | Estado |
