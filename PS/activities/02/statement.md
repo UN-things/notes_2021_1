@@ -18,4 +18,4 @@ Los elementos del escrito son:
 ## Solución
 
 - [Resumen de Artículos](summary_articles.md)
-- Documento a enviar - Sin realizar
+- [Documento a enviar](https://github.com/gtzambranop/UN_2021_1/tree/develop/PS/activities/02/introduction.pdf)

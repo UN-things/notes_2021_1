@@ -47,5 +47,5 @@
 | :---: | :---: | :---: |
 | 2021-02-23 | 2021-02-23 | [Realizado](activities/00/statement.md) |
 | 2021-02-25 | 2021-02-26 | [Realizado](activities/01/statement.md) |
-| 2021-03-02 | 2021-02-06 | [Sin Realizar](activities/02/statement.md) |
-| 2021-03-04 | 2021-02-09 | [Sin Realizar](activities/03/statement.md) |
+| 2021-03-02 | 2021-02-06 | [Realizado](activities/02/statement.md) |
+| 2021-03-04 | 2021-02-09 | [Realizado](activities/03/statement.md) |

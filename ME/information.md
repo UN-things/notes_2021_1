@@ -12,6 +12,9 @@
 | :---: | :---: |
 | 2021-02-22| [Presentación del curso](https://github.com/gtzambranop/UN_2021_1/tree/develop/ME/documents/course_presentation.pdf) |
 | 2021-02-24 | Presentación de videos individuales, asignación de monitores |
+| [2021-03-01](class_notes/2021_03_01.md) | Contenido del curso, pre-requisitos, introducción |
+| [2021-03-03](class_notes/2021_03_03.md) | Espacio muestral, de eventos y función de probabilidad -> Espacio de probabilidad|
+| [2021-03-08](class_notes/2021_03_08.md) |  |
 
 ## Tareas
 
