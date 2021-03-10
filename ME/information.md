@@ -14,12 +14,26 @@
 | 2021-02-24 | Presentación de videos individuales, asignación de monitores |
 | [2021-03-01](class_notes/2021_03_01.md) | Contenido del curso, pre-requisitos, introducción |
 | [2021-03-03](class_notes/2021_03_03.md) | Espacio muestral, de eventos y función de probabilidad -> Espacio de probabilidad|
-| [2021-03-08](class_notes/2021_03_08.md) |  |
+| [2021-03-08](class_notes/2021_03_08.md) | Eventos elementales y compuestos, duelo Galois, Eventos no equiprobables |
 
 ## Tareas
 
-- [Obligatorias](mandatory_tasks/information.md)
-- Opcionales.
+### Obligatorias
+
+| Fehca de asignación | Descripción | Puntos | Estado |
+| :---: | :---: | :---: | :---: |
+| 2021-02-22 | Video presentación | 1 | Realizado |
+| [2021-03-01](class_notes/2021_03_01.md) | Bernoulli y probabilidad 100 monedas | 2 | Sin realizar |
+| [2021-03-03](class_notes/2021_03_03.md) | Proponer relación que cumpla axiomas - Laplace | 1 | Sin realizar |
+| [2021-03-08](class_notes/2021_03_08.md) | Dado 6 lados, probabilidad eventos elementales y probabilidad de ser par | 2 | Sin realizar |
+| [2021-03-08](class_notes/2021_03_08.md) | Ecuación cuadrática, probabilidad raiz real (análitica y simulación) | 2 | Sin realizar |
+| [2021-03-08](class_notes/2021_03_08.md) | 5 experimentos aleatorios, espacio de probabilidad, 3 eventos | 3 | Sin realizar |
+
+### Opcionales
+
+| Fehca de asignación | Descripción | Puntos | Nivel | Estado |
+| :---: | :---: | :---: | :---: | :---: |
+| [2021-03-08](class_notes/2021_03_08.md) | Duelo Galois, eventos no equiprobables | 3 | 1 | Sin realizar |
 
 ## Puntos
 

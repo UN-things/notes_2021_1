@@ -31,12 +31,23 @@
 | [2021-02-25](class_notes/2021_02_25.md) | Arquitectura de software, Sistemas de software, ejemplos | [Fundamentos](https://github.com/gtzambranop/UN_2021_1/blob/develop/AS/presentations/01_software_architecture_fundamentals.pdf) |
 | [2021-03-02](class_notes/2021_03_02.md) | Libros útiles, Arquitectura de app y sistema, arquitectura de elementos | [Fundamentos](https://github.com/gtzambranop/UN_2021_1/blob/develop/AS/presentations/01_software_architecture_fundamentals.pdf) |
 | [2021-03-04](class_notes/2021_03_04.md) | Corrección tarea (propiedades y estructuras), Arquitectura sencilla cliente-servidor para identificar elementos básicos, Principios Guiding, proceso de arquitectura | [Fundamentos](https://github.com/gtzambranop/UN_2021_1/blob/develop/AS/presentations/01_software_architecture_fundamentals.pdf) |
-| [2021-03-09] | |  |
+| [2021-03-09] | Vistas de Arquitectura |  |
 
 ### Importante
 - Rojo: DB
 - Azul: Componentes con los que no interactúa el usuario
 - Verda: Componentes con los que el usuario interactúa
+
+## Gupo 1C
+
+Integrantes:
+- Liseth Yurany Arevalo Yaruro - lyarevalo@unal.edu.co
+- Cristian Camilo Garcia Barrera - ccgarciab@unal.edu.co
+- Jhonatan Torres Forero - jtorresf@unal.edu.co
+- Danier Elian Gonzalez Ordonez - dgonzalezo@unal.edu.co
+- David Humberto Rojas Carranza - dahrojasca@unal.edu.co
+- Daniel Camilo Perez Ceron - dacperezce@unal.edu.co
+- Guiselle Tatiana Zambrano Penagos - gtzambranop@unal.edu.co
 
 ## Lecturas
 
