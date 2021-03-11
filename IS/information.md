@@ -8,6 +8,26 @@
 - **Página del Curso** [Link](https://fagonzalezo.github.io/iis-2021-1/)
 - **Apuntes tomados por:** Guiselle Tatiana Zambrano Penagos
 
+## Resumenes
+
+Libro: [Inteligencia artificial un enfoque moderno](https://github.com/gtzambranop/UN_2021_1/tree/develop/IS/documents/inteligencia_artificial_un_enfoque_moderno_Resaltado.pdf)
+
+| Capítulo | Título |
+| :---: | :---: |
+| 1 | [Introducción](summary_book/chapter_1.md) |
+| 2 | [Agentes Inteligentes](summary_book/chapter_2.md) |
+| 3 | [Resolver problemas mediante búsqueda](summary_book/chapter_3.md) |
+| 4 | Búsqueda Informada y exploración |
+| 5 | Problemas de satisfacción de restricciones |
+| 6 | Búsqueda entre adversarios |
+
+
+## Practicas
+
+| Fecha de Asignación | Descripción | Estado |
+| :---: | :---: | :---: |
+| 2021-03-10 | Jarras de agua, misioneros y canívales | [Sin realizar](practices/00/Practica_1_Busquedas_no_informadas.html) |
+
 ## Apuntes
 
 | Fecha | Temas vistos |
@@ -16,4 +36,5 @@
 | [2021-02-24](class_notes/2021_02_24.pdf) | Realización de un taller grupal |
 | [2021-03-01](class_notes/2021_03_01.md) | Discusión taller, introducción a agentes |
 | [2021-03-03](class_notes/2021_03_03.md) | Agente reflejo, grafos y árboles |
-| [2021-03-09](class_notes/2021_03_09.md) | Agentes, búsquedas, BFS, DFS ([video](https://drive.google.com/file/d/1hxerUmA98tGmbXNyghmE9qQnxSKTkoAG/view?usp=sharing)) |
+| [2021-03-08](class_notes/2021_03_08.md) | Agentes, búsquedas, BFS, DFS ([video](https://drive.google.com/file/d/1hxerUmA98tGmbXNyghmE9qQnxSKTkoAG/view?usp=sharing)) |
+| 2021-03-10 | Recuento de clase virtual, [Práctica 1](practices/00/Practica_1_Busquedas_no_informadas.html) |

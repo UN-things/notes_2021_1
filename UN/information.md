@@ -20,10 +20,10 @@
 
 | Item | Porcentaje |
 | :---: | :---: |
-| Preguntas de las sesiones | 30\% |
-| Síntesis de las sesiones | 30\% |
-| Preparación de la infografía final | 10\% |
-| Infografía final | 30\% |
+| Preguntas de las sesiones | 30% |
+| Síntesis de las sesiones | 30% |
+| Preparación de la infografía final | 10% |
+| Infografía final | 30% |
 
 ## Apuntes
 
@@ -31,3 +31,4 @@
 | :---: | :---: |
 | [2021-02-23](class_notes/2021_02_23.md) | [Tres décadas de multiculturalismo en Colombia](https://github.com/gtzambranop/UN_2021_1/tree/develop/UN/summaries/2021_02_23.pdf) |
 | [2021-03-02](class_notes/2021_03_02.md) | [El multiculturalismo, la democracia liberal y la gestión de la diversidad cultural](https://github.com/gtzambranop/UN_2021_1/tree/develop/UN/summaries/2021_03_02.pdf) |
+| [2021-03-09](class_notes/2021_03_09.md) | [El multiculturalismo en el mundo](https://github.com/gtzambranop/UN_2021_1/tree/develop/UN/summaries/2021_03_09.pdf) |

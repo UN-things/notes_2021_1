@@ -10,14 +10,16 @@
 
 | Item | Porcentaje | Descripción | Fecha de entrega |
 | :---: | :---: | :---: | :---: |
-| Parcial 1 | 20\% | Cap 1 - 5 | 2021/04/15 - 2021/04/19 |
-| Parcial 2 | 20\% | Cap 6 - 10 | 2021/06/17 - 2021/06/21 |
-| Trabajo 1 | 20\% | Relacionado Carrera-meteorología - max 3 personas | 2021/04/05 - 2pm |
-| Trabajo 2 | 20\% | Teórico-práctico. Clasificación climática 2 sitios - max 3 personas | 2021/06/11 - 2pm |
-| Talleres | 20\% |
+| Parcial 1 | 20% | Cap 1 - 5 | 2021/04/15 - 2021/04/19 |
+| Parcial 2 | 20% | Cap 6 - 10 | 2021/06/17 - 2021/06/21 |
+| Trabajo 1 | 20% | Relacionado Carrera-meteorología - max 3 personas | 2021/04/05 - 2pm |
+| Trabajo 2 | 20% | Teórico-práctico. Clasificación climática 2 sitios - max 3 personas | 2021/06/11 - 2pm |
+| Talleres | 20% | | |
 
 ## Apuntes
 
 | Fecha | Temas vistos |
 | :---: | :---: |
 | [2021-02-24](class_notes/2021_02_22.md) | [Presentación del curso](https://github.com/gtzambranop/UN_2021_1/tree/develop/UN/documents/course_presentation.pdf) |
+| [2021-03-08](class_notes/2021_03_08.md) | Conceptos básicos: tiempo, clima, aire, atmósfera... |
+| [2021-03-10](class_notes/2021_03_10.md) | Gases del aire, efecto invernadero, aparatos de medición (incompleto) |
