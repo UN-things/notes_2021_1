@@ -1,0 +1,23 @@
+﻿architecture {
+	software_system: swarch;
+	author: gtzambranop;
+
+	architectural_views {
+		decomposition_view::
+			elements {
+				module moduleA;
+				module moduleB;
+				submodule submoduleX;
+				submodule submoduleY;
+				functionality functionalityM;
+				functionality functionalityN;
+			}
+
+			relations {
+				f: functionalityM is_part_of sm: submoduleX;
+				f: functionalityN is_part_of sm: submoduleX;
+				sm: submoduleX is_part_of m: moduleA;
+			}
+		::
+	}
+}

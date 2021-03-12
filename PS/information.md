@@ -29,23 +29,18 @@
 ## Grupo 6
 
 - **Integrantes:**
-  - Alvaro Andres Garcia Perdomo
-    - alagarciape@unal.edu.co
-  - Andres Felipe Velandia Erazo
-    - anfvelandiaer@unal.edu.co
-  - Elsy Tatiana Roberto Torres
-    - etrobertot@unal.edu.co
-  - Ivan Dario Solano Velasquez
-    - idsolanov@unal.edu.co
-  - Juan Sebastian Reina Zamora
-    - jreinaz@unal.edu.co
-  - Guiselle Tatiana Zambrano Penagos
-    - gtzambranop@unal.edu.co
+  - Alvaro Andres Garcia Perdomo: alagarciape@unal.edu.co
+  - Andres Felipe Velandia Erazo: anfvelandiaer@unal.edu.co
+  - Elsy Tatiana Roberto Torres: etrobertot@unal.edu.co
+  - Ivan Dario Solano Velasquez: idsolanov@unal.edu.co
+  - Juan Sebastian Reina Zamora: jreinaz@unal.edu.co
+  - Guiselle Tatiana Zambrano Penagos: gtzambranop@unal.edu.co
 ## Actividades
 
-| Fecha Asignación | Fecha Entrega | Estado |
+| Fecha Asignación | Descripción | Estado |
 | :---: | :---: | :---: |
-| 2021-02-23 | 2021-02-23 | [Realizado](activities/00/statement.md) |
-| 2021-02-25 | 2021-02-26 | [Realizado](activities/01/statement.md) |
-| 2021-03-02 | 2021-02-06 | [Realizado](activities/02/statement.md) |
-| 2021-03-04 | 2021-02-09 | [Realizado](activities/03/statement.md) |
+| 2021-02-23 | ¿Se puede explicar la inseguridad como sistema? | [Realizado](activities/00/statement.md) |
+| 2021-02-25 | Definir proyecto y buscar artículos | [Realizado](activities/01/statement.md) |
+| 2021-03-02 | Leer artículos y crear una introducción | [Realizado](activities/02/statement.md) |
+| 2021-03-04 | Características básicas del sistema del proyecto | [Realizado](activities/03/statement.md) |
+| 2021-03-11 | definir si un sistema es estable o no, leer artículo | [Sin realizar](activities/04/statement.md) |
