@@ -15,6 +15,9 @@
 | [2021-03-01](class_notes/2021_03_01.md) | Contenido del curso, pre-requisitos, introducción |
 | [2021-03-03](class_notes/2021_03_03.md) | Espacio muestral, de eventos y función de probabilidad -> Espacio de probabilidad|
 | [2021-03-08](class_notes/2021_03_08.md) | Eventos elementales y compuestos, duelo Galois, Eventos no equiprobables |
+| [2021-03-10](class_notes/2021_03_10.md) | Espacios de probabilidad condicional |
+| [2021-03-15](class_notes/2021_03_15.md) | Vectores aleatorios - **Ver clase** |
+| [2021-03-17](class_notes/2021_03_17.md) | **Ver clase** |
 
 ## Tareas
 
@@ -23,8 +26,8 @@
 | Fehca de asignación | Descripción | Puntos | Estado |
 | :---: | :---: | :---: | :---: |
 | 2021-02-22 | Video presentación | 1 | Realizado |
-| [2021-03-01](class_notes/2021_03_01.md) | Bernoulli y probabilidad 100 monedas | 2 | Sin realizar |
-| [2021-03-03](class_notes/2021_03_03.md) | Proponer relación que cumpla axiomas - Laplace | 1 | Sin realizar |
+| [2021-03-01](class_notes/2021_03_01.md) | Bernoulli y probabilidad 100 monedas | 2 | Realizado [1](task/M00/M00_1.jpg) - [2](task/M00/M00_2.jpg) |
+| [2021-03-03](class_notes/2021_03_03.md) | Proponer relación que cumpla axiomas - Laplace | 1 | [Realizado](task/M01/M01.jpg) |
 | [2021-03-08](class_notes/2021_03_08.md) | Dado 6 lados, probabilidad eventos elementales y probabilidad de ser par | 2 | Sin realizar |
 | [2021-03-08](class_notes/2021_03_08.md) | Ecuación cuadrática, probabilidad raiz real (análitica y simulación) | 2 | Sin realizar |
 | [2021-03-08](class_notes/2021_03_08.md) | 5 experimentos aleatorios, espacio de probabilidad, 3 eventos | 3 | Sin realizar |

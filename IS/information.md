@@ -36,5 +36,6 @@ Libro: [Inteligencia artificial un enfoque moderno](https://github.com/gtzambran
 | [2021-02-24](class_notes/2021_02_24.pdf) | Realización de un taller grupal |
 | [2021-03-01](class_notes/2021_03_01.md) | Discusión taller, introducción a agentes |
 | [2021-03-03](class_notes/2021_03_03.md) | Agente reflejo, grafos y árboles |
-| [2021-03-08](class_notes/2021_03_08.md) | Agentes, búsquedas, BFS, DFS ([video](https://drive.google.com/file/d/1hxerUmA98tGmbXNyghmE9qQnxSKTkoAG/view?usp=sharing)) |
+| [2021-03-08](class_notes/2021_03_08.md) | Agentes, búsquedas, BFS, DFS, UCS ([video](https://drive.google.com/file/d/1hxerUmA98tGmbXNyghmE9qQnxSKTkoAG/view?usp=sharing)) |
 | 2021-03-10 | Recuento de clase virtual, [Práctica 1](practices/00/Practica_1_Busquedas_no_informadas.html) |
+| [2021-03-15](class_notes/2021_03_15.md) | A*, Greedy, heurísticas |
