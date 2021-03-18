@@ -25,6 +25,10 @@
 | [2021-02-25](class_notes/2021_02_25.md) | ¿Cómo leer un artículo? |
 | [2021-03-02](class_notes/2021_03_02.md) | Estructura de un artículo, introducción y ensayo |
 | [2021-03-04](class_notes/2021_03_04.md) | Definición de pensamiento sistémico, origen y principios |
+| [2021-03-09](class_notes/2021_03_09.md) | Caracterización de un sistema |
+| [2021-03-11](class_notes/2021_03_11.md) | Clasificación de sistemas |
+| [2021-03-16](class_notes/2021_03_16.md) | Sistemas complejos, características y propiedades |
+| [2021-03-18](class_notes/2021_03_18.md) | Sistemas caóticos, Sistemas dinámicos, caos desordenado y ordenado |
 
 ## Grupo 6
 

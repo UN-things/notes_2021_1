@@ -44,6 +44,7 @@ Integrantes:
 | :---: | :---: | :---: |
 | [2021-02-25](class_notes/2021_02_25.md) | Arquitectura en el proceso de desarrollo | [Realizado](summaries/00.md) |
 | [2021-03-09](class_notes/2021_03_09.md) | Principios Guiding; resultados y contexto del proceso, actividades de la arquitectura, la arquitectura en los ciclos de desarrollo | [Realizado](summaries/01.md) |
+| [2021-03-18](class_notes/2021_03_18.md) | Arquitectura prescriptiva y descriptiva | [Realizad](summaries/02.md) |
 
 ## Tareas
 
@@ -60,4 +61,7 @@ Integrantes:
 | [2021-02-25](class_notes/2021_02_25.md) | Arquitectura de software, Sistemas de software, ejemplos | [Fundamentos](https://github.com/gtzambranop/UN_2021_1/blob/develop/AS/presentations/01_software_architecture_fundamentals.pdf) |
 | [2021-03-02](class_notes/2021_03_02.md) | Libros útiles, Arquitectura de app y sistema, arquitectura de elementos | [Fundamentos](https://github.com/gtzambranop/UN_2021_1/blob/develop/AS/presentations/01_software_architecture_fundamentals.pdf) |
 | [2021-03-04](class_notes/2021_03_04.md) | Corrección tarea (propiedades y estructuras), Arquitectura sencilla cliente-servidor para identificar elementos básicos, Principios Guiding, proceso de arquitectura | [Fundamentos](https://github.com/gtzambranop/UN_2021_1/blob/develop/AS/presentations/01_software_architecture_fundamentals.pdf) |
-| [2021-03-09] | Vistas de Arquitectura, descomposición |  |
+| [2021-03-09](class_notes/2021_03_09.md) | Vistas de Arquitectura, descomposición |  |
+| [2021-03-11](class_notes/2021_03_11.md) | Vista de descomposición (árbol y cajas) y C&C | |
+| [2021-03-16](class_notes/2021_03_16.md) | Trabajo grupal |
+| [2021-03-18] | Arquitectura prescriptiva y descriptiva, Estilos de arquitectura |
