@@ -22,11 +22,12 @@ Libro: [Inteligencia artificial un enfoque moderno](https://github.com/gtzambran
 | 6 | Búsqueda entre adversarios |
 
 
-## Practicas
+## Actividades
 
 | Fecha de Asignación | Descripción | Estado |
 | :---: | :---: | :---: |
 | 2021-03-10 | Jarras de agua, misioneros y canívales | [Sin realizar](practices/00/Practica_1_Busquedas_no_informadas.html) |
+| 2021-03-10 | Taller 1, Tallbots y Smallbots (BFS) | [Completar](activities/solution_practice_1.ipynb) |
 
 ## Apuntes
 
@@ -38,4 +39,6 @@ Libro: [Inteligencia artificial un enfoque moderno](https://github.com/gtzambran
 | [2021-03-03](class_notes/2021_03_03.md) | Agente reflejo, grafos y árboles |
 | [2021-03-08](class_notes/2021_03_08.md) | Agentes, búsquedas, BFS, DFS, UCS ([video](https://drive.google.com/file/d/1hxerUmA98tGmbXNyghmE9qQnxSKTkoAG/view?usp=sharing)) |
 | 2021-03-10 | Recuento de clase virtual, [Práctica 1](practices/00/Practica_1_Busquedas_no_informadas.html) |
-| [2021-03-15](class_notes/2021_03_15.md) | A*, Greedy, heurísticas |
+| [2021-03-15](class_notes/2021_03_15.md) | A*, Greedy, heurísticas ([Video 1](https://drive.google.com/file/d/1oTtFMYrqQECkB_XfkYpsZItmpyWqfTIL/view?t=780) - [Video 2](https://drive.google.com/file/d/1ATKLXE2cxSo8YXuklzXAU6aI7OLvSvGy/view?t=15)) |
+| 2021-03-17 | Recuento de clase virtual |
+| [2021-03-22](class_notes/2021_03_22.pdf) | Introducción a ML ([video 1](https://drive.google.com/file/d/1eK8pneZVxuMekVCbH3vu5NiKwxoEtisA/view) - [video 2](https://drive.google.com/file/d/12jIt3OVI8T2F4LXPQXBCaO79u4bew8if/view)) |
