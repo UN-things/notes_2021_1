@@ -29,6 +29,7 @@
 | [2021-03-11](class_notes/2021_03_11.md) | Clasificación de sistemas |
 | [2021-03-16](class_notes/2021_03_16.md) | Sistemas complejos, características y propiedades |
 | [2021-03-18](class_notes/2021_03_18.md) | Sistemas caóticos, Sistemas dinámicos, caos desordenado y ordenado |
+| [2021-04-08](class_notes/2021_04_08.md) | Dinámica de sistemas - Parcial |
 
 ## Grupo 6
 

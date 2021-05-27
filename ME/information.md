@@ -17,7 +17,12 @@
 | [2021-03-08](class_notes/2021_03_08.md) | Eventos elementales y compuestos, duelo Galois, Eventos no equiprobables |
 | [2021-03-10](class_notes/2021_03_10.md) | Espacios de probabilidad condicional |
 | [2021-03-15](class_notes/2021_03_15.md) | Vectores aleatorios - **Ver clase** |
-| [2021-03-17](class_notes/2021_03_17.md) | **Ver clase** |
+| [2021-03-17](class_notes/2021_03_17.md) | Variables y vectores, perdida de la memoria |
+| 2021-03-22 | Clase de recuperación |
+| 2021-03-24 | Espacio estudiante |
+| [2021-04-05](class_notes/2021_04_05.md) | Esperanza matemática y momentos |
+| [2021-04-07](class_notes/2021_04_07.md) | Exposición - **VER** |
+| [2021-04-12](class_notes/2021_04_12.md) | Momentos y Momentos centrales |
 
 ## Tareas
 
